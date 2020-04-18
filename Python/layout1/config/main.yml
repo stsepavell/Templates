@@ -1,0 +1,4 @@
+layout:
+    logger_config: config/logger.json
+format:
+    timestamp: "%Y-%m-%d_%H-%M-%S"
